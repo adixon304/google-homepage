@@ -1,0 +1,28 @@
+.logo{
+   padding-top:100px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.search-wrapper{
+    padding-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search{
+    width: 500px;
+    border-radius: 24px;
+    height: 30px;
+    display: block;
+    margin : 0 auto;
+}
+
+.button-wrapper{
+    padding-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
