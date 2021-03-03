@@ -1,0 +1,1 @@
+This is a mock up of the Google homepage created from the Odin's Project tutorial.
